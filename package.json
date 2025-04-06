@@ -10,7 +10,7 @@
     "add": "bunx cap add",
     "sync": "bunx cap sync",
     "open": "bunx cap open",
-    "android": "ionic cap run android -l --external"
+    "copy": "bunx cap copy"
   },
   "dependencies": {
     "@capacitor/android": "^7.2.0",
